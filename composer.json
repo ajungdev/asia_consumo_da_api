@@ -1,0 +1,15 @@
+{
+    "name": "rogerio/asia_consumo_api",
+    "autoload": {
+        "psr-4": {
+            "Ajung\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rogerio Benevento Junior",
+            "email": "rogerbenevento@gmail.com"
+        }
+    ],
+    "require": {}
+}
